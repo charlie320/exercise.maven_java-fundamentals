@@ -94,7 +94,6 @@ public class StringUtilities {
     		reversedString = stringToReverse.charAt(i) + reversedString;
     	}
 
-    	System.out.println(reversedString);
         return reversedString;
     }
     
