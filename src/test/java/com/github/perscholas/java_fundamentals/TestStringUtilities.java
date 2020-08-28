@@ -68,7 +68,7 @@ public class TestStringUtilities {
     @Test
     public void substringEndTest(){
         // : Given
-        String input = "Hello";
+//        String input = "Hello";
         String expected = "llo";
 
         // : When
