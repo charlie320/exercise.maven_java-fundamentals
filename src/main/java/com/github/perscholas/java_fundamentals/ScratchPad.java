@@ -10,6 +10,9 @@ public class ScratchPad {
 		byte aa = 5;
 		byte bb = 7;
 		System.out.println(aa + bb);
+		
+		String sample = "123456789";
+		System.out.println(sample.substring(sample.length() - 3));
 	}
 
 }
