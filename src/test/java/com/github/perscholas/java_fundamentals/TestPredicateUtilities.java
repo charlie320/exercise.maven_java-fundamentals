@@ -8,7 +8,8 @@ import static org.junit.Assert.*;
  * Created by Leon Hunter on 6/14/17.
  */
 public class TestPredicateUtilities {
-    private static volatile PredicateUtilities predicateUtilities = new PredicateUtilities();
+//    private static volatile PredicateUtilities predicateUtilities = new PredicateUtilities();
+    private PredicateUtilities predicateUtilities = new PredicateUtilities();
 
     @Test
     public void testReturnTrue(){
